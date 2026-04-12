@@ -1,4 +1,4 @@
-# ZEISS RAG Chatbot (Azure OpenAI + Azure AI Search)
+# RAG Chatbot (Azure OpenAI + Azure AI Search)
 
 A Retrieval-Augmented Generation (RAG) chatbot built with:
 
